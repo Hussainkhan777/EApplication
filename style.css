@@ -1,9 +1,10 @@
-.body-bg{
-    background-color: #DDD4D4;
+.body-bg {
+  background-color: #ddd4d4;
 }
-.bg-h1{
-    background-color: blue;
-    color: white;
-    padding: 10px;
-    text-align: center;
+.bg-h1 {
+  background-color: blue;
+  color: white;
+  padding: 10px;
+  text-align: center;
+  font-size: 50px;
 }
